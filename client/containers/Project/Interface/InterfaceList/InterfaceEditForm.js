@@ -844,8 +844,7 @@ class InterfaceEditForm extends Component {
                   <Option value="undone">未完成</Option>
                   <Option value="unTest">待测试</Option>
                   <Option value="testSuccess">测试通过</Option>
-                  <Option value="testFailed">测试失败</Option>
-                  <Option value="testing">测试中</Option>
+                  <Option value="testFailed">测试失败</Option><Option value="testing">测试中</Option>
                   <Option value="correcting">修复中</Option>
                 </Select>
             )}
